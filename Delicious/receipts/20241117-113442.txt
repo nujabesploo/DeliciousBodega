@@ -1,0 +1,7 @@
+Order Receipt
+Date: 2024-11-17 11:34:42
+
+Items Ordered:
+
+Total Price: $0.00
+Thank you for your order!

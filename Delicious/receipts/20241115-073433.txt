@@ -1,0 +1,10 @@
+Order Receipt
+Date: 2024-11-15 07:34:33
+
+Items Ordered:
+
+Sandwiches:
+8" wheat bread with Cheeses: cheese, Extra Cheeses: no,  (toasted) - Price: $9.00
+
+Total Price: $9.00
+Thank you for your order!

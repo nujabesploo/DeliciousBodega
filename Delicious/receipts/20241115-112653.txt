@@ -1,0 +1,13 @@
+Order Receipt
+Date: 2024-11-15 11:26:53
+
+Items Ordered:
+
+NYC Sandwiches:
+8" white bread with Meats: ham, Extra Meats: ham, Cheeses: swiss, Extra Cheeses: swiss, Other Toppings: onions, peppers, Sauces: mustard, mayo,  (toasted) - Price: $11.00
+
+Around the block Chips:
+Chips - Type: sour - $1.50
+
+Total Price: $12.50
+Thank you for your order!

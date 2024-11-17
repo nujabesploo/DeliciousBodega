@@ -1,0 +1,10 @@
+Order Receipt
+Date: 2024-11-16 10:07:05
+
+Items Ordered:
+
+NYC Sandwiches:
+8" white bread with Cheeses: gouda, Extra Cheeses: swiss,  (toasted) - Price: $9.00
+
+Total Price: $9.00
+Thank you for your order!
